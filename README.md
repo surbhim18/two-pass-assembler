@@ -13,6 +13,6 @@ How to run the project
 				 CODE3.asm or
 				 CODE4.asm or
 				 CODE5.asm
-4. The output will be displayed according to the assembly file.
+4. The output will be displayed and relevant files, containing the object code will be created.
 
 
